@@ -18,3 +18,14 @@
     font-size: 22px;
     line-height: 45px;
 }
+.container{
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+}
+.caja {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    color:white;
+}
